@@ -1,0 +1,1 @@
+This app is a working version of the lessons from Udemy course on how to create a react app
